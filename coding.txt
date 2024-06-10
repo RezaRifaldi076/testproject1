@@ -1,0 +1,15 @@
+A. persiapan
+xampp
+sublime text
+command (optional + gitcommand)
+bookmark
+
+B. github
+
+C. css (layouting)
+
+D. css (coloring)
+
+E. bootstrap
+
+F. ci 3
